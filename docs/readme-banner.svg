@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Cyberstart 2077 Custom</title>
+  <desc id="description">Cyberpunk style banner for a new tab with homelab telemetry.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#173040" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#ffffff" stroke-width=".35" opacity=".16"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#070b12"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <path d="M0 0H1200V10H0zM0 290H1200V300H0z" fill="#22d3ee"/>
+  <path d="M22 22H1178V278H22z" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  <path d="M22 76H1178M22 240H1178" stroke="#304955" stroke-width="1"/>
+  <path d="M22 22H178L164 36H22zM1018 278H1178V264H1032z" fill="#ec4899"/>
+  <text x="56" y="56" fill="#ec4899" font-family="monospace" font-size="17" font-weight="bold" letter-spacing="3">[ SYSTEM ONLINE ]</text>
+  <text x="56" y="150" fill="#22d3ee" font-family="monospace" font-size="72" font-weight="bold" letter-spacing="3">CYBERSTART</text>
+  <text x="56" y="218" fill="#fde047" font-family="monospace" font-size="62" font-weight="bold" letter-spacing="3">2077 CUSTOM</text>
+  <text x="57" y="264" fill="#a7b6c4" font-family="monospace" font-size="16" letter-spacing="2">NEW TAB  //  HOMELAB TELEMETRY  //  CHROME + EDGE</text>
+  <g transform="translate(895 103)" font-family="monospace" font-size="15" font-weight="bold" letter-spacing="1">
+    <path d="M0 0H245V122H0z" fill="#101722" stroke="#22d3ee" stroke-width="2"/>
+    <path d="M0 34H245M0 77H245" stroke="#304955"/>
+    <text x="16" y="24" fill="#ec4899">// LIVE TELEMETRY</text>
+    <text x="16" y="61" fill="#fde047">PVE  02/02</text>
+    <text x="180" y="61" fill="#34d399" font-size="11">ONLINE</text>
+    <text x="16" y="104" fill="#fde047">HTTP 01/02</text>
+    <text x="180" y="104" fill="#fb7185" font-size="11">CHECK</text>
+  </g>
+  <rect width="1200" height="300" fill="url(#scan)" pointer-events="none"/>
+</svg>

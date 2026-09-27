@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 290 54" role="img" aria-labelledby="title description">
+  <title id="title">Buy me a coffee</title>
+  <desc id="description">Support this fork with a coffee.</desc>
+  <rect x="1" y="1" width="288" height="52" fill="#0b1019" stroke="#fde047" stroke-width="2"/>
+  <path d="M1 1h13L1 14zM289 53h-13l13-13z" fill="#ec4899"/>
+  <g fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="square">
+    <path d="M19 20h26v14a8 8 0 0 1-8 8H27a8 8 0 0 1-8-8z"/>
+    <path d="M45 23h3a6 6 0 0 1 0 12h-3M17 45h31M25 8v7M33 8v7M41 8v7"/>
+  </g>
+  <text x="65" y="19" fill="#ec4899" font-family="monospace" font-size="10" font-weight="bold" letter-spacing="2">SUPPORT THIS FORK</text>
+  <text x="65" y="40" fill="#fde047" font-family="monospace" font-size="19" font-weight="bold" letter-spacing=".5">BUY ME A COFFEE</text>
+</svg>
