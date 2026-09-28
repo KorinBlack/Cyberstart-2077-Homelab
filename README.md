@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/cyberstart-2077-custom/falggpjjlpnbdokilbfgegfdlelihbpa">Chrome Web Store</a> ·
   <a href="#installation">Install</a> ·
   <a href="#screenshots">Screenshots</a> ·
   <a href="#system-monitor">System Monitor</a> ·
@@ -47,7 +48,9 @@ The original design, fonts, and core features are TealLogic's work. See [Credits
 
 ### Chrome Web Store
 
-**Store link: coming soon.** Once the listing is published, open it, select **Add to Chrome**, and open a new tab. The link will be added here after publication.
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/cyberstart-2077-custom/falggpjjlpnbdokilbfgegfdlelihbpa).
+
+Open the listing, select **Add to Chrome**, confirm the installation, and open a new tab.
 
 ### From source
 
